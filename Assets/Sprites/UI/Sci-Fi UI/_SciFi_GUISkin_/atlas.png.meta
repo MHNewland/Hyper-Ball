@@ -394,7 +394,7 @@ TextureImporter:
         height: 395
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 147, y: 151, z: 161, w: 154}
+      border: {x: 149, y: 172, z: 160, w: 174}
       outline: []
       physicsShape: []
       tessellationDetail: -1
@@ -415,7 +415,7 @@ TextureImporter:
         height: 450
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 169, y: 161, z: 195, w: 158}
+      border: {x: 175, y: 197, z: 200, w: 198}
       outline: []
       physicsShape: []
       tessellationDetail: -1
@@ -499,7 +499,7 @@ TextureImporter:
         height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 151, y: 149, z: 157, w: 151}
+      border: {x: 159, y: 171, z: 161, w: 175}
       outline: []
       physicsShape: []
       tessellationDetail: -1
@@ -745,9 +745,9 @@ TextureImporter:
       name: background_bar
       rect:
         serializedVersion: 2
-        x: 1065
+        x: 1077
         y: 1168
-        width: 119
+        width: 108
         height: 456
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -912,7 +912,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ab704620ea89bd740a2ab998cfc5b1e6
     internalID: 0
     vertices: []
     indices: 
